@@ -5,6 +5,7 @@
 ## Presentaciones
 
 * [Intro a FHIR](https://surpass-hulafe.gitlab.io/fhir-bases/) : Introducción y explicación de lo más básico de FHIR
+* [Reidentificación](https://llucbrell.github.io/reidentification-reveal/) : Explica varias posibilidades de reidentificación (en inglés) 
 * [Stack de SurPass](https://llucbrell.github.io/surpass-stack/) : Explica el stack de tecnologías del proyecto Surpas (en inglés)
 * [Experimentos Fhir](https://llucbrell.github.io/fhir-experience/) : Explica los diferentes experimentos hechos para aprender y probar cosas nuevas (en inglés)
 * [Apuntes Lit](https://github.com/hlf-pcsp/apuntes-lit) : Explica el funcionamiento de Lit y la integración de la librería en la aplicación Fhirbilina
