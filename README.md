@@ -1,6 +1,18 @@
-# Rescursos y otros para FHIR y el SurPass
+# Resources and others for FHIR and SurPass (EN)
+
+## Presentations
+
+* [Intro to FHIR](https://surpass-hulafe.gitlab.io/fhir-bases/) : Introduction and explanation of the basics of FHIR (in spanish)
+* [Reidentification](https://llucbrell.github.io/reidentification-reveal/) : Explains several possibilities of reidentification (in English)
+* [SurPass Integration](https://llucbrell.github.io/surpass-integration-reveal/) : Deals with the topic of SurPass integration into our system (in English)
+* [SurPass Stack](https://llucbrell.github.io/surpass-stack/) : Explains the technology stack of the Surpass project (in English)
+* [Fhir Experiments](https://llucbrell.github.io/fhir-experience/) : Explains the different experiments carried out to learn and test new things (in English)
+* [Lit Notes](https://github.com/hlf-pcsp/apuntes-lit) : Explains how Lit works and the integration of the library into the Fhirbilina application (in spanish)
+* [Web Apps Notes](https://hlf-pcsp.github.io/apuntes-webapps/) : Explains the integration of Lit and Tomcat (in spanish)
+* [Java on FHIR](https://llucbrell.github.io/java-on-fhir/) : Explains in more detail how to deploy and use Java web applications, Lit and FHIR, and also shows extra things like coding servers etc.(in spanish)
 
 
+# Rescursos y otros para FHIR y el SurPass (ES)
 
 ## Presentaciones
 
